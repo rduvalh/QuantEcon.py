@@ -1,6 +1,6 @@
 # QuantEcon.py
 
-A high performance, open source Python code library for economics
+This is my clone of : A high performance, open source Python code library for economics
 
 ```python
   from quantecon.markov import DiscreteDP
